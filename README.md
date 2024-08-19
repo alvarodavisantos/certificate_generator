@@ -5,7 +5,6 @@ Este projeto é um script em Python que automatiza a geração de certificados e
 
 - **Leitura de Planilha Excel**: O script lê automaticamente uma planilha Excel que contém uma lista de nomes na coluna "NOMES".
 - **Geração Automática de Certificados**: Para cada nome na planilha, o script gera um certificado em PDF personalizado.
-- **Personalização**: O modelo de certificado pode ser customizado conforme as necessidades, permitindo a inclusão de diferentes textos, fontes, e imagens.
 - **Salvamento em Lote**: Todos os certificados gerados são salvos automaticamente em uma pasta designada.
 
 ## Como Usar
