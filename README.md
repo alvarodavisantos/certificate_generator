@@ -11,4 +11,4 @@ Este projeto é um script em Python que automatiza a geração de certificados e
 
 1. Clone este repositório para sua máquina local.
 2. Inclua os nomes na planilha "nomes.xlsx"
-3. execute o gerar_certificados.exe
+3. execute o gerar_certificados.py com o Python
